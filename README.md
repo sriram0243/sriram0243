@@ -174,7 +174,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sriram0243&theme=tokyonight&hide_border=true" height="175" alt="GitHub Streak" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=sriram0243&show_icons=true&theme=tokyonight&hide_border=true" height="175" alt="GitHub Stats" />
 </p>
 <br />
 
