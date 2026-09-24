@@ -94,11 +94,33 @@
 
 ---
 
-<h2 align="left">Featured Project 🚀</h2>
+<h2 align="left">Featured Projects 🚀</h2>
 
 <table>
   <tr>
-    <td>
+    <td width="50%" valign="top">
+      <h3>🌾 FarmEase – Smart Farm Equipment Booking System</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      </p>
+      <ul>
+        <li>Full-stack agricultural machinery rental platform built with Python & Flask.</li>
+        <li>Features equipment browsing, smart date booking, and admin management.</li>
+        <li>Architected hybrid MySQL database storage with seamless fallback mode.</li>
+        <li>Designed modern glassmorphism responsive user interface.</li>
+      </ul>
+      <p>
+        <a href="https://github.com/sriram0243/FarmEase" target="_blank">
+          <img src="https://img.shields.io/badge/View_Project-00F2FE?style=for-the-badge&logo=github&logoColor=black" alt="View Project" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3>💬 SlimeChat – Real-Time Chat Web Application</h3>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
