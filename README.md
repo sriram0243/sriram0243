@@ -1,6 +1,6 @@
 <div align="center">
   <img src="./assets/banner.png" alt="SRIRAM - AI & Data Science Developer Banner"     width="100%"
-    height="300"
+    height="350"
     style="object-fit: cover;"/>
 </div>
 
