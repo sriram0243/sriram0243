@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.png" alt="SRIRAM - AI & Data Science Developer Banner" width="20%" />
+  <img src="./assets/banner.png" alt="SRIRAM - AI & Data Science Developer Banner" />
 </div>
 
 <br />
