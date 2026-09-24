@@ -176,15 +176,5 @@
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=sriram0243&show_icons=true&theme=tokyonight&hide_border=true" height="175" alt="GitHub Stats" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriram0243&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Most Used Languages" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sriram0243&theme=tokyonight&hide_border=true" height="175" alt="Contribution Graph" />
-</p>
-
 <br />
 
-<div align="center">
-  <img src="./assets/footer.png" alt="Footer Banner" width="100%" />
-</div>
